@@ -1,0 +1,35 @@
+# Bounty Hunter Plugin Config
+
+starting-bounty: 5000
+low-bounty-threshold: 2500
+high-bounty-threshold: 50000
+very-high-bounty-threshold: 200000
+
+mob-bounty-chance: 0.45
+mob-bounty-min: 50
+mob-bounty-max: 300
+
+# When you kill a player
+bounty-steal-percent: 0.44
+stats-from-bounty-percent: 50
+
+# Classes
+bountyhunter-bounty-multiplier: 1.3
+raider-stats-multiplier: 1.5
+
+# Ability costs (stats points)
+ability-costs:
+  bounty-magnet: 8000
+  life-steal: 6000
+  bounty-shield: 7000
+  critical-strike: 6500
+  ghost-mode: 10000
+  regeneration: 9000
+
+# Power upgrade costs (stats points)
+power-costs:
+  strength: 1000
+  speed: 800
+  health: 1500
+  resistance: 1200
+  haste: 900

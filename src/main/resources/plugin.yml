@@ -1,0 +1,12 @@
+name: BountyHunter
+version: 1.0
+main: com.bountyhunter.BountyPlugin
+api-version: '1.21'
+author: Grok
+description: Bounty Hunter system with stats, powers, and custom abilities
+
+commands:
+  bounty:
+    description: Open bounty menu
+    usage: /bounty [top]
+
